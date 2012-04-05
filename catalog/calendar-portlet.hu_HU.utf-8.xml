@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="hu_HU" charset="utf-8">
+
+  <msg key="Add_an_item">Új bejegyzés</msg>
+  <msg key="admin_pretty_name">Naptár adminisztrációja</msg>
+  <msg key="Create_a_new_Event">Új esemény</msg>
+  <msg key="full_portlet_pretty_name">Az egész naptár</msg>
+  <msg key="lt_Manage_Calendar_Event">Naptárbejegyzés-típusok</msg>
+  <msg key="Manage_Item_Types">Naptárbejegyzés-típusok</msg>
+  <msg key="pretty_name">Naptár</msg>
+  <msg key="Schedule">Órarend</msg>
+</message_catalog>

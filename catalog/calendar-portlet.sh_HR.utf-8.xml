@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="sh_HR" charset="utf-8">
+
+  <msg key="Add_an_item">Dodaj stavku</msg>
+  <msg key="full_portlet_pretty_name">Citav Kalendar</msg>
+  <msg key="Manage_Item_Types">Izbrisi/Dodaj vrste stavki</msg>
+  <msg key="pretty_name">Kalendar</msg>
+</message_catalog>

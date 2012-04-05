@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="ko_KR" charset="utf-8">
+
+  <msg key="Add_an_item">항목 추가</msg>
+  <msg key="admin_pretty_name">달력 관리</msg>
+  <msg key="Create_a_new_Event">새로운 이벤트 생성</msg>
+  <msg key="full_portlet_pretty_name">전체 달력</msg>
+  <msg key="lt_Manage_Calendar_Event">달력 이벤트 유형 관리</msg>
+  <msg key="Manage_Item_Types">항목 유형 관리</msg>
+  <msg key="pretty_name">달력</msg>
+  <msg key="Schedule">스케쥴</msg>
+</message_catalog>

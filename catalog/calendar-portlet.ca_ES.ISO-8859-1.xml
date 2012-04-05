@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="ca_ES" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Afegeix una cita </msg>
+  <msg key="admin_pretty_name">Administració del calendari </msg>
+  <msg key="Create_a_new_Event">Crea una cita nova </msg>
+  <msg key="full_portlet_pretty_name">Calendari complet</msg>
+  <msg key="lt_Manage_Calendar_Event">Administra els tipus d'esdeveniment</msg>
+  <msg key="Manage_Item_Types">Administra categories </msg>
+  <msg key="pretty_name">Calendari</msg>
+  <msg key="Schedule">Planificació </msg>
+</message_catalog>

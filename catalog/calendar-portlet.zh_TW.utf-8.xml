@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="zh_TW" charset="utf-8">
+
+  <msg key="Add_an_item">新增項目</msg>
+  <msg key="admin_pretty_name">日曆管理</msg>
+  <msg key="Create_a_new_Event">增加新事項</msg>
+  <msg key="full_portlet_pretty_name">完整行事曆</msg>
+  <msg key="lt_Manage_Calendar_Event">管理行事曆事件類別</msg>
+  <msg key="Manage_Item_Types">管理項目類別</msg>
+  <msg key="pretty_name">日曆</msg>
+  <msg key="Schedule">行程</msg>
+</message_catalog>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="ro_RO" charset="utf-8">
+
+  <msg key="Add_an_item">Adaugă un element</msg>
+  <msg key="admin_pretty_name">Administrare Calendar</msg>
+  <msg key="Create_a_new_Event">Creează un nou Eveniment</msg>
+  <msg key="full_portlet_pretty_name">Calendar Complet</msg>
+  <msg key="lt_Manage_Calendar_Event">Administrează Tipuri de Evenimente în Calendar</msg>
+  <msg key="Manage_Item_Types">Administrează Tipurile de Elemente</msg>
+  <msg key="pretty_name">Calendar</msg>
+  <msg key="Schedule">Orar</msg>
+</message_catalog>

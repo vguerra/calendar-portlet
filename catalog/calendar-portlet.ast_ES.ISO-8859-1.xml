@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="ast_ES" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Axuntar un ítem</msg>
+  <msg key="admin_pretty_name">Alministración del Calandariu</msg>
+  <msg key="Create_a_new_Event">Crear un Eventu nuevu</msg>
+  <msg key="full_portlet_pretty_name">Calandariu Completu</msg>
+  <msg key="lt_Manage_Calendar_Event">Xestionar les Estayes d'Eventos del Calandariu</msg>
+  <msg key="Manage_Item_Types">Xestionar Estayes</msg>
+  <msg key="pretty_name">Calandariu</msg>
+  <msg key="Schedule">Horariu</msg>
+</message_catalog>

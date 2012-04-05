@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="fr_FR" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Ajouter un élément</msg>
+  <msg key="admin_pretty_name">Administration de l'agenda</msg>
+  <msg key="Create_a_new_Event">Créer un nouvel évènement</msg>
+  <msg key="full_portlet_pretty_name">Agenda</msg>
+  <msg key="lt_Manage_Calendar_Event">Gérer les types d'évènements</msg>
+  <msg key="Manage_Item_Types">Gérer les types d'éléments</msg>
+  <msg key="pretty_name">Agenda</msg>
+  <msg key="Schedule">Planification</msg>
+</message_catalog>

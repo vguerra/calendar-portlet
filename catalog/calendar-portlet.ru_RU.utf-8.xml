@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="ru_RU" charset="utf-8">
+
+  <msg key="Add_an_item">Добавить запись</msg>
+  <msg key="admin_pretty_name">Администрирование календаря</msg>
+  <msg key="Create_a_new_Event">Добавить новое событие</msg>
+  <msg key="full_portlet_pretty_name">Общий календарь</msg>
+  <msg key="lt_Manage_Calendar_Event">Редактировать типы событий в календаре</msg>
+  <msg key="Manage_Item_Types">Редактировать типы событий</msg>
+  <msg key="pretty_name">Календарь</msg>
+  <msg key="Schedule">Расписание</msg>
+</message_catalog>

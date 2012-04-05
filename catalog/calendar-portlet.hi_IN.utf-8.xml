@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="hi_IN" charset="utf-8">
+
+  <msg key="Add_an_item">अन्ग को मिमाओ  </msg>
+  <msg key="admin_pretty_name">सरकार का पन्चान्ग  </msg>
+  <msg key="Create_a_new_Event">नया घटना को स्रश्ति करना </msg>
+  <msg key="full_portlet_pretty_name">पूरा पन्चान्ग </msg>
+  <msg key="lt_Manage_Calendar_Event">पन्चान्ग घटना प्रकार को सन्भालना</msg>
+  <msg key="Manage_Item_Types">घटना प्रकार को सन्भालना</msg>
+  <msg key="pretty_name">पन्चान्ग </msg>
+  <msg key="Schedule">सूची </msg>
+</message_catalog>

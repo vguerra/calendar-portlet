@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="tr_TR" charset="utf-8">
+
+  <msg key="Add_an_item">Bir madde ekle</msg>
+  <msg key="admin_pretty_name">Takvim Yoneticisi</msg>
+  <msg key="Create_a_new_Event">Yeni bir olay yarat</msg>
+  <msg key="full_portlet_pretty_name">Bütün Takvim</msg>
+  <msg key="lt_Manage_Calendar_Event">Takvim olay turlerini yonet</msg>
+  <msg key="Manage_Item_Types">Madde turlerini yonet</msg>
+  <msg key="pretty_name">Takvim</msg>
+  <msg key="Schedule">Cizelge</msg>
+</message_catalog>

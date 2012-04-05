@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="sv_SE" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Lägg till en post</msg>
+  <msg key="admin_pretty_name">Kalenderadministration</msg>
+  <msg key="Create_a_new_Event">Skapa en ny händelse</msg>
+  <msg key="full_portlet_pretty_name">Detaljerad kalender</msg>
+  <msg key="lt_Manage_Calendar_Event">Hantera typer av händelser</msg>
+  <msg key="Manage_Item_Types">Hantera typer av poster</msg>
+  <msg key="pretty_name">Kalender</msg>
+  <msg key="Schedule">Schema</msg>
+</message_catalog>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="fa_IR" charset="utf-8">
+
+  <msg key="admin_pretty_name">مديريت تقويم</msg>
+  <msg key="pretty_name">تقويم</msg>
+</message_catalog>

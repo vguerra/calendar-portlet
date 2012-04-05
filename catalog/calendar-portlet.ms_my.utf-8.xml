@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="ms_MY" charset="utf-8">
+
+  <msg key="Add_an_item">Tambah satu butiran</msg>
+  <msg key="admin_pretty_name">Pengendalian Takwim</msg>
+  <msg key="Create_a_new_Event">Reka Peristiwa baru</msg>
+  <msg key="full_portlet_pretty_name">Takwim Lengkap</msg>
+  <msg key="lt_Manage_Calendar_Event">Urus Jenis-jenis Peristiwa Takwim</msg>
+  <msg key="Manage_Item_Types">Urus Jenis Kategori</msg>
+  <msg key="pretty_name">Takwim</msg>
+  <msg key="Schedule">Jadual</msg>
+</message_catalog>

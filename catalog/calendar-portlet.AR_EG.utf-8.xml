@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="ar_EG" charset="utf-8">
+
+  <msg key="Add_an_item">أضف بندًا</msg>
+  <msg key="admin_pretty_name">إدارة المفكرة</msg>
+  <msg key="Create_a_new_Event">أخلق حدثًا جديدًا</msg>
+  <msg key="full_portlet_pretty_name">المُفَكِّرَة الكاملة</msg>
+  <msg key="lt_Manage_Calendar_Event">أدرْ أنواعَ الحدثِ التقويميةِ</msg>
+  <msg key="Manage_Item_Types">أدرْ أنواعَ المادةِ</msg>
+  <msg key="pretty_name">المُفَكِّرَة</msg>
+  <msg key="Schedule">الجدول</msg>
+</message_catalog>

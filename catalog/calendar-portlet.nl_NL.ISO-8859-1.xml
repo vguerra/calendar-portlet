@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="nl_NL" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Gebeurtenis toevoegen</msg>
+  <msg key="admin_pretty_name">Kalender administratie</msg>
+  <msg key="Create_a_new_Event">Nieuwe gebeurtenis aanmaken </msg>
+  <msg key="full_portlet_pretty_name">Complete Kalender</msg>
+  <msg key="lt_Manage_Calendar_Event">Gebeurteniscategoriën voor de kalender beheren</msg>
+  <msg key="Manage_Item_Types">Gebeurteniscategorie wijzigen</msg>
+  <msg key="pretty_name">Kalender</msg>
+  <msg key="Schedule">Planning</msg>
+</message_catalog>

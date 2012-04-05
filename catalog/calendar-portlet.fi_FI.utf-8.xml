@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="fi_FI" charset="utf-8">
+
+  <msg key="Add_an_item">Lisää tapahtuma</msg>
+  <msg key="admin_pretty_name">Kalenterin ylläpito</msg>
+  <msg key="Create_a_new_Event">Luo uusi tapahtuma</msg>
+  <msg key="full_portlet_pretty_name">Kalenteri</msg>
+  <msg key="lt_Manage_Calendar_Event">Muokkaa tapahtumatyyppejä</msg>
+  <msg key="Manage_Item_Types">Muokkaa tapahtumatyyppejä</msg>
+  <msg key="pretty_name">Päivän ohjelma</msg>
+  <msg key="Schedule">Aikataulu</msg>
+</message_catalog>

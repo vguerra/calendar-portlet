@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="no_NO" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Legg inn avtale</msg>
+  <msg key="admin_pretty_name">Kalenderadministrasjon</msg>
+  <msg key="Create_a_new_Event">Lag en ny avtale</msg>
+  <msg key="full_portlet_pretty_name">Kalender</msg>
+  <msg key="lt_Manage_Calendar_Event">Administrer kalender innleggstyper</msg>
+  <msg key="Manage_Item_Types">Administrer avtaletyper</msg>
+  <msg key="pretty_name">Kalender</msg>
+  <msg key="Schedule">Aktiviteter</msg>
+</message_catalog>

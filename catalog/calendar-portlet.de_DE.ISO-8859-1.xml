@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="de_DE" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Eintrag hinzufügen</msg>
+  <msg key="admin_pretty_name">Kalender verwalten</msg>
+  <msg key="Create_a_new_Event">Neuen Eintrag hinzufügen</msg>
+  <msg key="Download_subscribe">Kalendereinträge exportieren/abonnieren</msg>
+  <msg key="full_portlet_pretty_name">Voller Kalender</msg>
+  <msg key="full_portlet_pretty_name_mobile">Voller&lt;br&gt;Kalender</msg>
+  <msg key="list_pretty_name">Kalender</msg>
+  <msg key="list_pretty_name_mobile">Kalender</msg>
+  <msg key="lt_Manage_Calendar_Event">Eintragskategorien ändern</msg>
+  <msg key="Manage_Item_Types">Eintragskategorien ändern</msg>
+  <msg key="Parameter_Period_Days">Angezeigte Tage in der Listendarstellung (standard)</msg>
+  <msg key="pretty_name">Kalender</msg>
+  <msg key="pretty_name_mobile">Kalender</msg>
+  <msg key="Schedule">Tagesplan</msg>
+</message_catalog>

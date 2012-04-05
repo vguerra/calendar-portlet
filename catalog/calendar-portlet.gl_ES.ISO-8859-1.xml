@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="gl_ES" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Engadir un ítem</msg>
+  <msg key="admin_pretty_name">Administración do Calendario</msg>
+  <msg key="Create_a_new_Event">Crear novo Evento</msg>
+  <msg key="full_portlet_pretty_name">Calendario Completo</msg>
+  <msg key="lt_Manage_Calendar_Event">Xerenciar Tipos de Evento do Calendario</msg>
+  <msg key="Manage_Item_Types">Xerenciar Tipos de Ítem</msg>
+  <msg key="pretty_name">Calendario</msg>
+  <msg key="Schedule">Horario</msg>
+</message_catalog>

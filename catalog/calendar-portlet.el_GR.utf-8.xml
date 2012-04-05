@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<message_catalog package_key="calendar-portlet" locale="el_GR" charset="utf-8">
+
+  <msg key="Add_an_item">Προσθήκη συμβάντος</msg>
+  <msg key="admin_pretty_name">Διαχείριση Ημερολογίου</msg>
+  <msg key="Create_a_new_Event">Δημιουργία νέου συμβάντος</msg>
+  <msg key="full_portlet_pretty_name">Πλήρες ημερολόγιο</msg>
+  <msg key="lt_Manage_Calendar_Event">Διαχείριση τύπων συμβάντων ημερολογίου</msg>
+  <msg key="Manage_Item_Types">Διαχείριση τύπων συμβάντων</msg>
+  <msg key="Parameter_Period_Days">Περίοδος ημερών για την προβολή λίστας (προεπιλογή)</msg>
+  <msg key="pretty_name">Ημερολόγιο</msg>
+  <msg key="Schedule">Πρόγραμμα</msg>
+</message_catalog>

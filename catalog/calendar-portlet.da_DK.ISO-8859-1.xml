@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="calendar-portlet" locale="da_DK" charset="ISO-8859-1">
+
+  <msg key="Add_an_item">Tilføj en kalenderpost</msg>
+  <msg key="admin_pretty_name">Administation af Kalender</msg>
+  <msg key="Create_a_new_Event">Opret en ny Begivenhed</msg>
+  <msg key="full_portlet_pretty_name">Kalender</msg>
+  <msg key="lt_Manage_Calendar_Event">Administrer typer af kalenderbegivenheder</msg>
+  <msg key="Manage_Item_Types">Administrer kalenderposttyper</msg>
+  <msg key="pretty_name">Kalender</msg>
+  <msg key="Schedule">Skema</msg>
+</message_catalog>
